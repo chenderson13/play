@@ -1,1 +1,1 @@
-cynthia
+print "cynthia"
